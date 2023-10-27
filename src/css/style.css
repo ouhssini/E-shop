@@ -1,0 +1,19 @@
+.aside {
+    background-color:#FAF3F0!important;
+}
+.btn-danger {
+    background-color: #CDBABB !important;
+    border-color: #CDBABB !important;
+}
+.btn-danger:is(:hover,:focus:active,:visited) {
+    background-color: #b7a7a8 !important;
+}
+.text-danger {
+    color: #CDBABB !important;
+}
+.text-danger:hover{
+    color: #b7a7a8 !important;
+}
+.border-danger-subtle{
+    border-color: #b7a7a8 !important;
+}
